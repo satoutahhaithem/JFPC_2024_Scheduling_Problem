@@ -1,4 +1,4 @@
-# Scheduling Problem for Rodef 
+# Scheduling Problem for Roadef 
 This repository contains a Python program designed for scheduling sessions for the ROADEF 2024 conference. The program encodes the  problem into Maximum Satisfiability (Max-SAT) , which can be then solved through dedicated solvers to efficiently allocate sessions while minimising working-group conflicts. 
 
 # Install Required Packages
