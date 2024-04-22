@@ -175,7 +175,7 @@ for i in range (1,5):
     constraints.append([var_z(34,i)])
 ####################################################################################
 
-constraints.to_file("instance/"+data_set_choice+"/"+str(max_parallel_sessions)+"_session_file.wcnf")
+constraints.to_file("instance/"+str(max_parallel_sessions)+"_session_file.wcnf")
 
 
 
